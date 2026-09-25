@@ -3,11 +3,12 @@ package main
 import (
 	"flag"
 	"fmt"
-	"greetctl-max/internal/logx"
+
+	"github.com/valeroman/greetctl-max/internal/logx"
 
 	"github.com/fatih/color"
 
-	gr "greetctl-max/pkg/greet"
+	gr "github.com/valeroman/greetctl-max/pkg/greet"
 )
 
 func main() {

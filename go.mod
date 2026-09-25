@@ -1,4 +1,4 @@
-module greetctl-max
+module github.com/valeroman/greetctl-max
 
 go 1.27.1
 
